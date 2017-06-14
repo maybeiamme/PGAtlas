@@ -8,92 +8,92 @@
 
 /* Begin PBXBuildFile section */
 		18AEB915784BD24F1130E794F3E8136A /* Pods-PGAtlas_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A2C63F9CB3CC64E45F3E5DD99EE0782 /* Pods-PGAtlas_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		412218FE1EF1B7A4006672B6 /* Atlas.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A21EF1B7A4006672B6 /* Atlas.h */; };
+		412218FE1EF1B7A4006672B6 /* Atlas.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A21EF1B7A4006672B6 /* Atlas.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412218FF1EF1B7A4006672B6 /* Atlas.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218A31EF1B7A4006672B6 /* Atlas.m */; };
-		412219001EF1B7A4006672B6 /* ATLAddressBarViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A51EF1B7A4006672B6 /* ATLAddressBarViewController.h */; };
+		412219001EF1B7A4006672B6 /* ATLAddressBarViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A51EF1B7A4006672B6 /* ATLAddressBarViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219011EF1B7A4006672B6 /* ATLAddressBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218A61EF1B7A4006672B6 /* ATLAddressBarViewController.m */; };
-		412219021EF1B7A4006672B6 /* ATLBaseConversationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A71EF1B7A4006672B6 /* ATLBaseConversationViewController.h */; };
+		412219021EF1B7A4006672B6 /* ATLBaseConversationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A71EF1B7A4006672B6 /* ATLBaseConversationViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219031EF1B7A4006672B6 /* ATLBaseConversationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218A81EF1B7A4006672B6 /* ATLBaseConversationViewController.m */; };
-		412219041EF1B7A4006672B6 /* ATLConversationListViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A91EF1B7A4006672B6 /* ATLConversationListViewController.h */; };
+		412219041EF1B7A4006672B6 /* ATLConversationListViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218A91EF1B7A4006672B6 /* ATLConversationListViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219051EF1B7A4006672B6 /* ATLConversationListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218AA1EF1B7A4006672B6 /* ATLConversationListViewController.m */; };
-		412219061EF1B7A4006672B6 /* ATLConversationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218AB1EF1B7A4006672B6 /* ATLConversationViewController.h */; };
+		412219061EF1B7A4006672B6 /* ATLConversationViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218AB1EF1B7A4006672B6 /* ATLConversationViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219071EF1B7A4006672B6 /* ATLConversationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218AC1EF1B7A4006672B6 /* ATLConversationViewController.m */; };
-		412219081EF1B7A4006672B6 /* ATLParticipantTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218AD1EF1B7A4006672B6 /* ATLParticipantTableViewController.h */; };
+		412219081EF1B7A4006672B6 /* ATLParticipantTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218AD1EF1B7A4006672B6 /* ATLParticipantTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219091EF1B7A4006672B6 /* ATLParticipantTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218AE1EF1B7A4006672B6 /* ATLParticipantTableViewController.m */; };
-		4122190A1EF1B7A4006672B6 /* ATLTypingIndicatorViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218AF1EF1B7A4006672B6 /* ATLTypingIndicatorViewController.h */; };
+		4122190A1EF1B7A4006672B6 /* ATLTypingIndicatorViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218AF1EF1B7A4006672B6 /* ATLTypingIndicatorViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122190B1EF1B7A4006672B6 /* ATLTypingIndicatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218B01EF1B7A4006672B6 /* ATLTypingIndicatorViewController.m */; };
-		4122190C1EF1B7A4006672B6 /* ATLConversationDataSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B21EF1B7A4006672B6 /* ATLConversationDataSource.h */; };
+		4122190C1EF1B7A4006672B6 /* ATLConversationDataSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B21EF1B7A4006672B6 /* ATLConversationDataSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122190D1EF1B7A4006672B6 /* ATLConversationDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218B31EF1B7A4006672B6 /* ATLConversationDataSource.m */; };
-		4122190E1EF1B7A4006672B6 /* ATLDataSourceChange.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B41EF1B7A4006672B6 /* ATLDataSourceChange.h */; };
+		4122190E1EF1B7A4006672B6 /* ATLDataSourceChange.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B41EF1B7A4006672B6 /* ATLDataSourceChange.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122190F1EF1B7A4006672B6 /* ATLDataSourceChange.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218B51EF1B7A4006672B6 /* ATLDataSourceChange.m */; };
-		412219101EF1B7A4006672B6 /* ATLMediaAttachment.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B61EF1B7A4006672B6 /* ATLMediaAttachment.h */; };
+		412219101EF1B7A4006672B6 /* ATLMediaAttachment.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B61EF1B7A4006672B6 /* ATLMediaAttachment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219111EF1B7A4006672B6 /* ATLMediaAttachment.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218B71EF1B7A4006672B6 /* ATLMediaAttachment.m */; };
-		412219121EF1B7A4006672B6 /* ATLParticipantTableDataSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B81EF1B7A4006672B6 /* ATLParticipantTableDataSet.h */; };
+		412219121EF1B7A4006672B6 /* ATLParticipantTableDataSet.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218B81EF1B7A4006672B6 /* ATLParticipantTableDataSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219131EF1B7A4006672B6 /* ATLParticipantTableDataSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218B91EF1B7A4006672B6 /* ATLParticipantTableDataSet.m */; };
-		412219141EF1B7A4006672B6 /* ATLAvatarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BB1EF1B7A4006672B6 /* ATLAvatarItem.h */; };
-		412219151EF1B7A4006672B6 /* ATLConversationPresenting.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BC1EF1B7A4006672B6 /* ATLConversationPresenting.h */; };
-		412219161EF1B7A4006672B6 /* ATLMessagePresenting.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BD1EF1B7A4006672B6 /* ATLMessagePresenting.h */; };
-		412219171EF1B7A4006672B6 /* ATLParticipant.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BE1EF1B7A4006672B6 /* ATLParticipant.h */; };
-		412219181EF1B7A4006672B6 /* ATLParticipantPresenting.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BF1EF1B7A4006672B6 /* ATLParticipantPresenting.h */; };
-		412219191EF1B7A4006672B6 /* ATLConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C11EF1B7A4006672B6 /* ATLConstants.h */; };
+		412219141EF1B7A4006672B6 /* ATLAvatarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BB1EF1B7A4006672B6 /* ATLAvatarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		412219151EF1B7A4006672B6 /* ATLConversationPresenting.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BC1EF1B7A4006672B6 /* ATLConversationPresenting.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		412219161EF1B7A4006672B6 /* ATLMessagePresenting.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BD1EF1B7A4006672B6 /* ATLMessagePresenting.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		412219171EF1B7A4006672B6 /* ATLParticipant.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BE1EF1B7A4006672B6 /* ATLParticipant.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		412219181EF1B7A4006672B6 /* ATLParticipantPresenting.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218BF1EF1B7A4006672B6 /* ATLParticipantPresenting.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		412219191EF1B7A4006672B6 /* ATLConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C11EF1B7A4006672B6 /* ATLConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122191A1EF1B7A4006672B6 /* ATLConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218C21EF1B7A4006672B6 /* ATLConstants.m */; };
-		4122191B1EF1B7A4006672B6 /* ATLErrors.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C31EF1B7A4006672B6 /* ATLErrors.h */; };
+		4122191B1EF1B7A4006672B6 /* ATLErrors.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C31EF1B7A4006672B6 /* ATLErrors.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122191C1EF1B7A4006672B6 /* ATLErrors.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218C41EF1B7A4006672B6 /* ATLErrors.m */; };
-		4122191D1EF1B7A4006672B6 /* ATLLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C51EF1B7A4006672B6 /* ATLLocationManager.h */; };
+		4122191D1EF1B7A4006672B6 /* ATLLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C51EF1B7A4006672B6 /* ATLLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122191E1EF1B7A4006672B6 /* ATLLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218C61EF1B7A4006672B6 /* ATLLocationManager.m */; };
-		4122191F1EF1B7A4006672B6 /* ATLMediaInputStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C71EF1B7A4006672B6 /* ATLMediaInputStream.h */; };
+		4122191F1EF1B7A4006672B6 /* ATLMediaInputStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C71EF1B7A4006672B6 /* ATLMediaInputStream.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219201EF1B7A4006672B6 /* ATLMediaInputStream.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218C81EF1B7A4006672B6 /* ATLMediaInputStream.m */; };
-		412219211EF1B7A4006672B6 /* ATLMessagingUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C91EF1B7A4006672B6 /* ATLMessagingUtilities.h */; };
+		412219211EF1B7A4006672B6 /* ATLMessagingUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218C91EF1B7A4006672B6 /* ATLMessagingUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219221EF1B7A4006672B6 /* ATLMessagingUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218CA1EF1B7A4006672B6 /* ATLMessagingUtilities.m */; };
-		412219231EF1B7A4006672B6 /* ATLUIImageHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218CB1EF1B7A4006672B6 /* ATLUIImageHelper.h */; };
+		412219231EF1B7A4006672B6 /* ATLUIImageHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218CB1EF1B7A4006672B6 /* ATLUIImageHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219241EF1B7A4006672B6 /* ATLUIImageHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218CC1EF1B7A4006672B6 /* ATLUIImageHelper.m */; };
-		412219251EF1B7A4006672B6 /* LYRIdentity+ATLParticipant.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218CD1EF1B7A4006672B6 /* LYRIdentity+ATLParticipant.h */; };
+		412219251EF1B7A4006672B6 /* LYRIdentity+ATLParticipant.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218CD1EF1B7A4006672B6 /* LYRIdentity+ATLParticipant.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219261EF1B7A4006672B6 /* LYRIdentity+ATLParticipant.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218CE1EF1B7A4006672B6 /* LYRIdentity+ATLParticipant.m */; };
-		412219271EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218CF1EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.h */; };
+		412219271EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218CF1EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219281EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218D01EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.m */; };
-		412219291EF1B7A4006672B6 /* ATLAddressBarContainerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D21EF1B7A4006672B6 /* ATLAddressBarContainerView.h */; };
+		412219291EF1B7A4006672B6 /* ATLAddressBarContainerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D21EF1B7A4006672B6 /* ATLAddressBarContainerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122192A1EF1B7A4006672B6 /* ATLAddressBarContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218D31EF1B7A4006672B6 /* ATLAddressBarContainerView.m */; };
-		4122192B1EF1B7A4006672B6 /* ATLAddressBarTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D41EF1B7A4006672B6 /* ATLAddressBarTextView.h */; };
+		4122192B1EF1B7A4006672B6 /* ATLAddressBarTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D41EF1B7A4006672B6 /* ATLAddressBarTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122192C1EF1B7A4006672B6 /* ATLAddressBarTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218D51EF1B7A4006672B6 /* ATLAddressBarTextView.m */; };
-		4122192D1EF1B7A4006672B6 /* ATLAddressBarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D61EF1B7A4006672B6 /* ATLAddressBarView.h */; };
+		4122192D1EF1B7A4006672B6 /* ATLAddressBarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D61EF1B7A4006672B6 /* ATLAddressBarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122192E1EF1B7A4006672B6 /* ATLAddressBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218D71EF1B7A4006672B6 /* ATLAddressBarView.m */; };
-		4122192F1EF1B7A4006672B6 /* ATLAvatarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D81EF1B7A4006672B6 /* ATLAvatarView.h */; };
+		4122192F1EF1B7A4006672B6 /* ATLAvatarView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218D81EF1B7A4006672B6 /* ATLAvatarView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219301EF1B7A4006672B6 /* ATLAvatarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218D91EF1B7A4006672B6 /* ATLAvatarView.m */; };
-		412219311EF1B7A4006672B6 /* ATLBaseCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218DA1EF1B7A4006672B6 /* ATLBaseCollectionViewCell.h */; };
+		412219311EF1B7A4006672B6 /* ATLBaseCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218DA1EF1B7A4006672B6 /* ATLBaseCollectionViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219321EF1B7A4006672B6 /* ATLBaseCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218DB1EF1B7A4006672B6 /* ATLBaseCollectionViewCell.m */; };
-		412219331EF1B7A4006672B6 /* ATLConversationCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218DC1EF1B7A4006672B6 /* ATLConversationCollectionView.h */; };
+		412219331EF1B7A4006672B6 /* ATLConversationCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218DC1EF1B7A4006672B6 /* ATLConversationCollectionView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219341EF1B7A4006672B6 /* ATLConversationCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218DD1EF1B7A4006672B6 /* ATLConversationCollectionView.m */; };
-		412219351EF1B7A4006672B6 /* ATLConversationCollectionViewFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218DE1EF1B7A4006672B6 /* ATLConversationCollectionViewFooter.h */; };
+		412219351EF1B7A4006672B6 /* ATLConversationCollectionViewFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218DE1EF1B7A4006672B6 /* ATLConversationCollectionViewFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219361EF1B7A4006672B6 /* ATLConversationCollectionViewFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218DF1EF1B7A4006672B6 /* ATLConversationCollectionViewFooter.m */; };
-		412219371EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E01EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.h */; };
+		412219371EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E01EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219381EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218E11EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.m */; };
-		412219391EF1B7A4006672B6 /* ATLConversationCollectionViewMoreMessagesHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E21EF1B7A4006672B6 /* ATLConversationCollectionViewMoreMessagesHeader.h */; };
+		412219391EF1B7A4006672B6 /* ATLConversationCollectionViewMoreMessagesHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E21EF1B7A4006672B6 /* ATLConversationCollectionViewMoreMessagesHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122193A1EF1B7A4006672B6 /* ATLConversationCollectionViewMoreMessagesHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218E31EF1B7A4006672B6 /* ATLConversationCollectionViewMoreMessagesHeader.m */; };
-		4122193B1EF1B7A4006672B6 /* ATLConversationTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E41EF1B7A4006672B6 /* ATLConversationTableViewCell.h */; };
+		4122193B1EF1B7A4006672B6 /* ATLConversationTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E41EF1B7A4006672B6 /* ATLConversationTableViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122193C1EF1B7A4006672B6 /* ATLConversationTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218E51EF1B7A4006672B6 /* ATLConversationTableViewCell.m */; };
-		4122193D1EF1B7A4006672B6 /* ATLConversationView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E61EF1B7A4006672B6 /* ATLConversationView.h */; };
+		4122193D1EF1B7A4006672B6 /* ATLConversationView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E61EF1B7A4006672B6 /* ATLConversationView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122193E1EF1B7A4006672B6 /* ATLConversationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218E71EF1B7A4006672B6 /* ATLConversationView.m */; };
-		4122193F1EF1B7A4006672B6 /* ATLIncomingMessageCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E81EF1B7A4006672B6 /* ATLIncomingMessageCollectionViewCell.h */; };
+		4122193F1EF1B7A4006672B6 /* ATLIncomingMessageCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218E81EF1B7A4006672B6 /* ATLIncomingMessageCollectionViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219401EF1B7A4006672B6 /* ATLIncomingMessageCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218E91EF1B7A4006672B6 /* ATLIncomingMessageCollectionViewCell.m */; };
-		412219411EF1B7A4006672B6 /* ATLMessageBubbleView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218EA1EF1B7A4006672B6 /* ATLMessageBubbleView.h */; };
+		412219411EF1B7A4006672B6 /* ATLMessageBubbleView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218EA1EF1B7A4006672B6 /* ATLMessageBubbleView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219421EF1B7A4006672B6 /* ATLMessageBubbleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218EB1EF1B7A4006672B6 /* ATLMessageBubbleView.m */; };
-		412219431EF1B7A4006672B6 /* ATLMessageCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218EC1EF1B7A4006672B6 /* ATLMessageCollectionViewCell.h */; };
+		412219431EF1B7A4006672B6 /* ATLMessageCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218EC1EF1B7A4006672B6 /* ATLMessageCollectionViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219441EF1B7A4006672B6 /* ATLMessageCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218ED1EF1B7A4006672B6 /* ATLMessageCollectionViewCell.m */; };
-		412219451EF1B7A4006672B6 /* ATLMessageComposeTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218EE1EF1B7A4006672B6 /* ATLMessageComposeTextView.h */; };
+		412219451EF1B7A4006672B6 /* ATLMessageComposeTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218EE1EF1B7A4006672B6 /* ATLMessageComposeTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219461EF1B7A4006672B6 /* ATLMessageComposeTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218EF1EF1B7A4006672B6 /* ATLMessageComposeTextView.m */; };
-		412219471EF1B7A4006672B6 /* ATLMessageInputToolbar.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F01EF1B7A4006672B6 /* ATLMessageInputToolbar.h */; };
+		412219471EF1B7A4006672B6 /* ATLMessageInputToolbar.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F01EF1B7A4006672B6 /* ATLMessageInputToolbar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219481EF1B7A4006672B6 /* ATLMessageInputToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218F11EF1B7A4006672B6 /* ATLMessageInputToolbar.m */; };
-		412219491EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F21EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.h */; };
+		412219491EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F21EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122194A1EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218F31EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.m */; };
-		4122194B1EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F41EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.h */; };
+		4122194B1EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F41EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122194C1EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218F51EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.m */; };
-		4122194D1EF1B7A4006672B6 /* ATLParticipantTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F61EF1B7A4006672B6 /* ATLParticipantTableViewCell.h */; };
+		4122194D1EF1B7A4006672B6 /* ATLParticipantTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F61EF1B7A4006672B6 /* ATLParticipantTableViewCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4122194E1EF1B7A4006672B6 /* ATLParticipantTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218F71EF1B7A4006672B6 /* ATLParticipantTableViewCell.m */; };
-		4122194F1EF1B7A4006672B6 /* ATLPlayView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F81EF1B7A4006672B6 /* ATLPlayView.h */; };
+		4122194F1EF1B7A4006672B6 /* ATLPlayView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218F81EF1B7A4006672B6 /* ATLPlayView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219501EF1B7A4006672B6 /* ATLPlayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218F91EF1B7A4006672B6 /* ATLPlayView.m */; };
-		412219511EF1B7A4006672B6 /* ATLPresenceStatusView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218FA1EF1B7A4006672B6 /* ATLPresenceStatusView.h */; };
+		412219511EF1B7A4006672B6 /* ATLPresenceStatusView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218FA1EF1B7A4006672B6 /* ATLPresenceStatusView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219521EF1B7A4006672B6 /* ATLPresenceStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218FB1EF1B7A4006672B6 /* ATLPresenceStatusView.m */; };
-		412219531EF1B7A4006672B6 /* ATLProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218FC1EF1B7A4006672B6 /* ATLProgressView.h */; };
+		412219531EF1B7A4006672B6 /* ATLProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 412218FC1EF1B7A4006672B6 /* ATLProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412219541EF1B7A4006672B6 /* ATLProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 412218FD1EF1B7A4006672B6 /* ATLProgressView.m */; };
 		4122195A1EF1BF97006672B6 /* LayerKit.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 412219591EF1BF97006672B6 /* LayerKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		75901558F20A558DD28D0347C81E055E /* PGAtlas-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B5E20C538B3A91B850AE5A517311D8E9 /* PGAtlas-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -538,6 +538,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75901558F20A558DD28D0347C81E055E /* PGAtlas-umbrella.h in Headers */,
+				412218FE1EF1B7A4006672B6 /* Atlas.h in Headers */,
 				412219531EF1B7A4006672B6 /* ATLProgressView.h in Headers */,
 				4122192D1EF1B7A4006672B6 /* ATLAddressBarView.h in Headers */,
 				412219371EF1B7A4006672B6 /* ATLConversationCollectionViewHeader.h in Headers */,
@@ -566,7 +568,6 @@
 				4122191F1EF1B7A4006672B6 /* ATLMediaInputStream.h in Headers */,
 				412219101EF1B7A4006672B6 /* ATLMediaAttachment.h in Headers */,
 				412219271EF1B7A4006672B6 /* UIResponder+ATLFirstResponder.h in Headers */,
-				412218FE1EF1B7A4006672B6 /* Atlas.h in Headers */,
 				4122194B1EF1B7A4006672B6 /* ATLParticipantSectionHeaderView.h in Headers */,
 				412219061EF1B7A4006672B6 /* ATLConversationViewController.h in Headers */,
 				412219491EF1B7A4006672B6 /* ATLOutgoingMessageCollectionViewCell.h in Headers */,
@@ -574,7 +575,6 @@
 				412219001EF1B7A4006672B6 /* ATLAddressBarViewController.h in Headers */,
 				4122193B1EF1B7A4006672B6 /* ATLConversationTableViewCell.h in Headers */,
 				412219511EF1B7A4006672B6 /* ATLPresenceStatusView.h in Headers */,
-				75901558F20A558DD28D0347C81E055E /* PGAtlas-umbrella.h in Headers */,
 				412219331EF1B7A4006672B6 /* ATLConversationCollectionView.h in Headers */,
 				412219181EF1B7A4006672B6 /* ATLParticipantPresenting.h in Headers */,
 				4122192F1EF1B7A4006672B6 /* ATLAvatarView.h in Headers */,
