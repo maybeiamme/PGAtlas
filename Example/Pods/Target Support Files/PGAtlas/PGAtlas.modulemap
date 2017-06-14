@@ -1,0 +1,6 @@
+framework module PGAtlas {
+  umbrella header "PGAtlas-umbrella.h"
+
+  export *
+  module * { export * }
+}

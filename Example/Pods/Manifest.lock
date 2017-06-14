@@ -1,0 +1,16 @@
+PODS:
+  - PGAtlas (0.1.0)
+
+DEPENDENCIES:
+  - PGAtlas (from `../`)
+
+EXTERNAL SOURCES:
+  PGAtlas:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PGAtlas: 8c851ab0c85d65098c10d5a20440e144fa5eb3a6
+
+PODFILE CHECKSUM: 5725f6ab98c57c9d0a56bd9b4a248e6482171f2a
+
+COCOAPODS: 1.2.1

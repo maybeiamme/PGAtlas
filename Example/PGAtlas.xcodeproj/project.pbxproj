@@ -39,6 +39,7 @@
 /* Begin PBXFileReference section */
 		2B0669A4644DE71E6651E028 /* Pods-PGAtlas_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGAtlas_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PGAtlas_Tests/Pods-PGAtlas_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2BCC755F77379DA42FD99EB9 /* Pods_PGAtlas_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PGAtlas_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4122195B1EF1C130006672B6 /* LayerKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LayerKit.framework; path = ../Carthage/Build/iOS/LayerKit.framework; sourceTree = "<group>"; };
 		485E8D5CE492FB4CE8239E43 /* Pods-PGAtlas_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGAtlas_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PGAtlas_Example/Pods-PGAtlas_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* PGAtlas_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PGAtlas_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -60,11 +61,11 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		60A89A57F420F94A20BAF616 /* Pods_PGAtlas_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PGAtlas_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F1D5932907CE8EB9B125525 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6F1D5932907CE8EB9B125525 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		76F66A2E39CA78D7BBA1B7D7 /* PGAtlas.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PGAtlas.podspec; path = ../PGAtlas.podspec; sourceTree = "<group>"; };
+		76F66A2E39CA78D7BBA1B7D7 /* PGAtlas.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PGAtlas.podspec; path = ../PGAtlas.podspec; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8B21581E2EC80A8BCB5581C4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8B21581E2EC80A8BCB5581C4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A154CE20A7CC347E447BDA9B /* Pods-PGAtlas_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGAtlas_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PGAtlas_Example/Pods-PGAtlas_Example.release.xcconfig"; sourceTree = "<group>"; };
 		DFF36627CAAE22A10B9CDA0D /* Pods-PGAtlas_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGAtlas_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PGAtlas_Tests/Pods-PGAtlas_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -119,6 +120,7 @@
 		6003F58C195388D20070C39A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4122195B1EF1C130006672B6 /* LayerKit.framework */,
 				6003F58D195388D20070C39A /* Foundation.framework */,
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,

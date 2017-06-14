@@ -1,0 +1,6 @@
+framework module Pods_PGAtlas_Tests {
+  umbrella header "Pods-PGAtlas_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
